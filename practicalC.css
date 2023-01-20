@@ -1,0 +1,82 @@
+*{
+	box-sizing:border-box;
+}
+
+.row{
+	width:100%;
+	
+}
+
+.column-left{
+	width:30%;
+	float:left;
+	box-shadow:2px 5px 5px gray;
+}
+hr{
+	width:90%;
+}
+
+.image{
+	position:relative;
+	color:white;
+	width:100%;
+}
+
+.pro{
+	width:100%;
+}
+
+.name{
+	position:absolute;
+	bottom:8px;
+	left:16px;
+}
+.fa{
+	padding-right:15px;
+}
+
+.container{
+	width: 100%;
+	background-color:gray;
+	border-radius:0 15px 15px 0;
+	
+}
+
+.skills{
+	text-align: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: black;
+	border-radius:0 15px 15px 0;
+	font-size:10pt;
+}
+
+.html{width: 80%; background-color:#6E145A;}
+.css{width: 70%; background-color:#6E145A;}
+.Js{width: 70%; background-color:#6E145A;}
+
+.sinhala{width: 100%; background-color:#6E145A;}
+.english{width: 70%; background-color:#6E145A;}
+
+.card2{
+	width:70%;
+	float:left;
+	box-shadow:2px 5px 5px gray;
+	padding-left:15px;
+	margin-top:15px;
+}
+h1{
+	font-size:10pt;
+}
+
+p{
+	font-size:10pt;
+}
+.footer{
+	width:100%;
+	float:left;
+	text-align:center;
+	background-color:#905F85;
+	color:black;
+	
+}
